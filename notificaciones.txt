@@ -7,5 +7,5 @@ Bienvenido al ECG Monitor. Este es un mensaje de prueba.
 Recorda verificar que los electrodos esten correctamente colocados antes de comenzar.
 
 [003]
-[Novedad]
-Se agregaron nuevas funciones al sistema.
+[hola esto es una prueba]
+Se agregaron nuevas funciones al sistema. esto sigue siendo una prueba que locura lo que estoy escribiendo entrara en la pantalla o no se vera nada? alguno habla español de los que estmos aca? hola hola perinola quien anda por ahi? esto ya deberia cambiar de renglon solo me imagino, esta parte ya ocupara varias paginas? no creo. una consulta sera que el icono de notificacion se enciende correctamente o cuando prendo y apago se vuelven a aparecer? bueno vamos a averiguarlo con esta pruebita
