@@ -1,3 +1,11 @@
-Hola
-quiero saber que tanto puedo escribir por aqui en realidad este es un mensaje completamente de prueba por lo que tengo que llenar el espacio asi simplemente escribiendo cualquier cosa pero quiero saber exactamente como se comporta este mensaje parece que no tiene fin podria hacer enter?
-hola quiero saber una cosita alguno de los que estamos aca habla español!? 
+[001]
+[Bienvenido]
+Bienvenido al ECG Monitor. Este es un mensaje de prueba.
+
+[002]
+[Importante]
+Recorda verificar que los electrodos esten correctamente colocados antes de comenzar.
+
+[003]
+[Novedad]
+Se agregaron nuevas funciones al sistema.
