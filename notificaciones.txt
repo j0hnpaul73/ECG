@@ -1,6 +1,7 @@
 [001]
-[Bienvenido]
-Bienvenido al ECG Monitor. Este es un mensaje de prueba.
+[Hola tino]
+Hola tino esto es un mensaje de prueba
+
 
 [002]
 [Importante]
