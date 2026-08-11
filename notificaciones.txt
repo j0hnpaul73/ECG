@@ -1,6 +1,6 @@
 [001]
-[Hola tino]
-Hola tino esto es un mensaje de prueba
+[ALO?]
+CACAHUATE
 
 
 [002]
