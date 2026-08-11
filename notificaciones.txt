@@ -9,3 +9,7 @@ Recorda verificar que los electrodos esten correctamente colocados antes de come
 [003]
 [hola esto es una prueba]
 Se agregaron nuevas funciones al sistema. esto sigue siendo una prueba que locura lo que estoy escribiendo entrara en la pantalla o no se vera nada? alguno habla español de los que estmos aca? hola hola perinola quien anda por ahi? esto ya deberia cambiar de renglon solo me imagino, esta parte ya ocupara varias paginas? no creo. una consulta sera que el icono de notificacion se enciende correctamente o cuando prendo y apago se vuelven a aparecer? bueno vamos a averiguarlo con esta pruebita
+
+[004]
+[segunda prueba]
+Bueno menos mal que el mensaje anterior no aparecio como notificacion. en realidad la idea era que si pero bueno si todos los mensajes quedaran aca guardados es un viajecito. hola hola esto sigue siendo una prueba para ver si entran todos los mensajes en la pantalla o se corren solos hacia abajo. hola hola quien anda por ahia alguno habla español?! quien anda por ahi contesten todos los que estamos aca contesten hola hola quien anda por ahi buena partida para todoe l mudno! sera que esto ya ocupa varias paginas o sera que aun es suficientemente chico para que entre en una sola pagina me pregunto cual sera el limite y me pregunto si ya lo habre sobrepasado bueno igual me estoy aburriendo de escribir por lo que seria ideal que esto termine en 43211
