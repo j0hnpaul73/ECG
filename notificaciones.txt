@@ -1,6 +1,6 @@
 [001]
-[ALO?]
-CACAHUATE
+[hola desde el cel]
+prueba desde el cel
 
 
 [002]
