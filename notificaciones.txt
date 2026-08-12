@@ -4,8 +4,9 @@ CACAHUATE
 
 
 [002]
-[Importante]
-Recorda verificar que los electrodos esten correctamente colocados antes de comenzar.
+[una pruebita mas]
+otra pruebilla!
+
 
 [003]
 [hola que tan bien funciona esto?]
