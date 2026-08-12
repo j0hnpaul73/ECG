@@ -1,15 +1,15 @@
 [001]
-[hola desde el cel]
-prueba desde el cel
+[Pruebilla]
+Prueba nueva coso pere
 
 
 [002]
 [una pruebita mas]
-otra pruebilla!
+holu!
 
 
 [003]
-[se viene actualizacion!]
+[coso pere]
 hola la idea es que se venga una actualizacion por este medio  y ya de paso comprobar que se vea bien!
 
 [004]
