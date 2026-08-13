@@ -1,15 +1,15 @@
 [001]
-[prueboniaaaa]
-Pruebota
+[Hola!]
+HOla continuan los mensajes de prueba!
 
 [002]
-[una pruebita mas]
-holu!
+[hello]
+otro mensaje de prueba desde el cel
 
 [003]
-[coso pere]
-hola la idea es que se venga una actualizacion por este medio  y ya de paso comprobar que se vea bien!
+[chau]
+hola que tal 12233444555667n!
 
 [004]
-[Pruebilla]
-Hola
+[ultima pruebilla]
+alo
