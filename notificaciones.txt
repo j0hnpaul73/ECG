@@ -1,15 +1,14 @@
 [001]
-[Hola!]
-HOla continuan los mensajes de prueba!
+[Info Nueva actualizacion]
+La nueva actualizacion ya esta aqui! Disfruta de los cambios de interfaz
 
 [002]
-[hello]
-otro mensaje de prueba desde el cel
+[]
+
 
 [003]
-[chau]
-hola que tal 12233444555667n!
+[]
+
 
 [004]
-[ultima pruebilla]
-alo
+[]
