@@ -1,13 +1,17 @@
 [1]
+[Informacion version 6.1]
+La nueva actualizazcion ya esta aqui! Ningun cambio drastico. Simplemente en el modo envio elmiminamos el cartel de: VOLVER AL MENU PRINCIPAL, ya que no se estaba usando. quiza despues vuelva. como el rey que se fue a cazar. larga vida a ned stark :) 
+
+[2]
 [Proximamente]
 Nueva actualizacion. Se corrigen errores. Va quedando pronta la version definitiva. PD: que buen capitulo
 
-[2]
+[3]
 [puebilla!] 
 asi o mas clarito
 
 
-[3]
+[4]
 [Hola] 
 Hola a todos, esto es una prueba
 
